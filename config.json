@@ -1,5 +1,4 @@
 {
-  "wsUrl": "wss://scribble-server-2slk.onrender.com",
-  "version": "1.0",
-  "motd": ""
+    "wsUrl":"ws://157.230.5.252:8080",
+    "version":"1.0"
 }
